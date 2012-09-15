@@ -47,7 +47,7 @@ public class StockWatcher implements EntryPoint {
   private Label errorMsgLabel = new Label();
   
   
-  
+  //hihi
   /*I am adding a new method to this class!!! */
   
 	public void newMethod()
