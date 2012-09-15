@@ -70,9 +70,7 @@ public class StockWatcher implements EntryPoint {
 		System.out.println("Manual");
 	}
 	
-	//change 2
-	
-	//hihi change
+	//fetch worked
 	
 	
 	
