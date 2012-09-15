@@ -65,6 +65,11 @@ public class StockWatcher implements EntryPoint {
 		System.out.println("Test Method 3!");
 	}
 	
+	public void manualMethod()
+	{
+		System.out.println("Manual");
+	}
+	
   /**
    * Entry point method.
    */
