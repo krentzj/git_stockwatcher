@@ -70,6 +70,8 @@ public class StockWatcher implements EntryPoint {
 		System.out.println("Manual");
 	}
 	
+	//hihi change
+	
   /**
    * Entry point method.
    */
