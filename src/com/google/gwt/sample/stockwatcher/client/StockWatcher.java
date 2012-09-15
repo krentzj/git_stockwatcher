@@ -72,7 +72,7 @@ public class StockWatcher implements EntryPoint {
 	
 	//hihi change
 	
-	//want to update online!!!
+	//change 1
 	
   /**
    * Entry point method.
